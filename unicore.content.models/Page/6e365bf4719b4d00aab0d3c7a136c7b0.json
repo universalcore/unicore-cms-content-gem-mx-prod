@@ -4,25 +4,27 @@
   "language": "spa_MX", 
   "title": "\u00bfTienes malas compa\u00f1\u00edas?", 
   "primary_category": "f433b7b52b42438db34d42dd457e8a08", 
-  "created_at": "2014-12-22T04:20:16.566937+00:00", 
+  "created_at": "2014-12-22T04:20:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-22T04:20:16.567131+00:00", 
+  "modified_at": "2014-12-22T05:22:19.900104+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6735a3d396174b0d94780156aca779ac"
+  ], 
   "id": null, 
-  "content": "**\u00bfTienes malas compa\u00f1\u00edas? Haz buenos amigos para toda la vida**\r\n\r\n - Elige a tus amigos con prudencia. Rod\u00e9ate de gente positiva que te aliente a seguir intent\u00e1ndolo, aun cuando te sientas desmotivada. \r\n - Evita hacerte amiga de gente que se r\u00ede de ti o que te menosprecia.\r\n - Pasa el rato con gente que desee las mismas cosas positivas que t\u00fa. Elige amigos que sue\u00f1en con seguir estudiando, obtener buenas calificaciones y crear oportunidades para s\u00ed mismos. Ellos tienen un gran futuro por delante, \u00a1como t\u00fa!\r\n - Un buen amigo es alguien a quien amas y apoyas en los buenos y malos momentos. Y ellos hacen lo mismo por ti. Los verdaderos amigos tienen un camino y una visi\u00f3n para sus futuros. Los amigos se ayudan entre s\u00ed para evitar tomar malas decisiones que podr\u00edan comprometer sus futuros.\r\n - S\u00e9 una buena amiga. Escucha, apoya y s\u00e9 confiable. Ay\u00fadense entre s\u00ed y perdonen a un amigo que cometa un error. \r\n\r\n**Leidy is a 17-year-old Colombian girl. The drug trade and an ongoing conflict\r\nmake certain neighbourhoods - or barrios - in her city of Bogota very\r\ndangerous, especially for young girls. This is her story:**", 
+  "content": "**\u00bfTienes malas compa\u00f1\u00edas? Haz buenos amigos para toda la vida**\r\n\r\n - Elige a tus amigos con prudencia. Rod\u00e9ate de gente positiva que te aliente a seguir intent\u00e1ndolo, aun cuando te sientas desmotivada. \r\n - Evita hacerte amiga de gente que se r\u00ede de ti o que te menosprecia.\r\n - Pasa el rato con gente que desee las mismas cosas positivas que t\u00fa. Elige amigos que sue\u00f1en con seguir estudiando, obtener buenas calificaciones y crear oportunidades para s\u00ed mismos. Ellos tienen un gran futuro por delante, \u00a1como t\u00fa!\r\n - Un buen amigo es alguien a quien amas y apoyas en los buenos y malos momentos. Y ellos hacen lo mismo por ti. Los verdaderos amigos tienen un camino y una visi\u00f3n para sus futuros. Los amigos se ayudan entre s\u00ed para evitar tomar malas decisiones que podr\u00edan comprometer sus futuros.\r\n - S\u00e9 una buena amiga. Escucha, apoya y s\u00e9 confiable. Ay\u00fadense entre s\u00ed y perdonen a un amigo que cometa un error. \r\n\r\n**Leidy es una adolescente colombiana de 17 a\u00f1os. El tr\u00e1fico de drogas y los conflictos constantes hacen que ciertas ciudades o barrios sean particularmente peligrosos, en especial para las chicas j\u00f3venes, como en la ciudad de Leidy, Bogot\u00e1. Esta es su historia:**", 
   "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-bad-crowd", 
   "uuid": "6e365bf4719b4d00aab0d3c7a136c7b0"
