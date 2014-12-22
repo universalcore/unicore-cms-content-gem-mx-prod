@@ -5,16 +5,18 @@
   "title": "\u00bfQu\u00e9 es la pubertad?", 
   "primary_category": "f433b7b52b42438db34d42dd457e8a08", 
   "created_at": "2014-12-22T04:43:22+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-12-22T05:12:53.424304+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-22T08:21:08.374579+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d36212bc8edb43768076c39ae74ecfd6"
+  ], 
   "id": null, 
   "content": "**\u00bfQu\u00e9 es la pubertad?**\r\n\r\nLa pubertad es una etapa en la que atraviesas muchos cambios. Tu cuerpo comenzar\u00e1 a cambiar, y es posible que te des cuenta de que tu humor cambia. Estos son algunos aspectos que puedes esperar:\r\n\r\n - Notar\u00e1s que tus pechos comienzan a desarrollarse y comenzar\u00e1s a tener vello p\u00fabico. En este momento, tambi\u00e9n es posible que comiences a menstruar. \r\n - Es normal sentirse rara y sensible en relaci\u00f3n con los cambios en el cuerpo. Puedes sentirte irritada o deprimida, o perder la calma. Es bueno que platiques con alguien cuando te sientas de esta manera.\r\n - Todas las ni\u00f1as y ni\u00f1os atraviesan la pubertad, pero no todos a la misma edad. La manera en que te desarrolles puede ser diferente a la tus amigos. Esto puede hacerte sentir preocupada o excluida, pero recuerda que todos somos diferentes y que tu cuerpo se desarrollar\u00e1 a su propio ritmo. \r\n - Durante la pubertad, tal vez prefieras platicar con tus amigos, m\u00e1s que con adultos. Solo recuerda elegir buenos amigos que te fortalezcan, y que tengan objetivos y sue\u00f1os similares. \r\n\r\n**Puberty is a name for the time when you start to change from a child to an adult. Puberty is normal\u2014it happens to everyone. You'll go through a lot of changes, but you will still be YOU\u2014with some important di\ufb00erences. This is one girl\u2019s story:** ", 
   "source": "4b9e54f1c2c547ba92fac4ee0da7ff1d", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "que-es-la-pubertad", 
   "uuid": "c5742c7fb6d34201890a1ff3abb37e9e"
