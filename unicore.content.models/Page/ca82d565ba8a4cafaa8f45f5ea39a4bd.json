@@ -4,14 +4,14 @@
   "language": "spa_MX", 
   "title": "\u00bfEres superahorradora-tus respuestas", 
   "primary_category": "f433b7b52b42438db34d42dd457e8a08", 
-  "created_at": "2016-01-31T05:16:10.380721+00:00", 
+  "created_at": "2016-01-31T05:16:10+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-01-31T05:16:10.380969+00:00", 
+  "modified_at": "2016-06-08T05:56:11.387730+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,12 +19,12 @@
   ], 
   "id": null, 
   "content": "Si contestaste m\u00e1s A, \u00a1eres una supergastadora!\r\n\r\nAunque no es malo consentirte en ocasiones, guardar algo de dinero significa que podr\u00e1s hacer grandes cosas m\u00e1s adelante. Si te cuesta trabajo no gastar tu dinero, deja tu bolso en casa cuando salgas. P\u00eddele a tus pap\u00e1s, a tu tutor o a un hermano mayor en el que conf\u00edes que te ayude a ahorrar; ya sea ayud\u00e1ndote a abrir una cuenta bancaria o consigui\u00e9ndote una caja para ahorrar. Aseg\u00farate de que tenga candado para que puedas mantener tu dinero seguro en casa. \r\n \r\nSi contestaste m\u00e1s B, eres una excelente ahorradora.\r\n \r\nTienes grandes planes y sabes que guardar dinero ahora te ayudar\u00e1 a alcanzar tus sue\u00f1os m\u00e1s adelante en la vida. \u00bfAlcanzaste tu meta de ahorro? \u00bfComo guardar dinero cada semana durante tres meses seguidos sin gastar? \u00a1Puedes celebrar esto con un peque\u00f1o regalo! Esto te motivar\u00e1 a seguir ahorrando para cosas m\u00e1s grandes, como tu educaci\u00f3n o comenzar un negocio. \r\n \r\nSi contestaste la mitad A y la mitad B, est\u00e1s perdida en el medio.\r\n \r\n\u00a1Tienes cierto balance! S\u00ed ahorras, pero tambi\u00e9n te gusta consentirte y en ocasiones terminas gastando en cosas en las que realmente no deber\u00edas gastar. Lleva un registro de c\u00f3mo gastas tu dinero para ayudarte a ahorrar a\u00fan m\u00e1s. Al comienzo de cada semana, escribe cu\u00e1nto dinero tienes. Despu\u00e9s, siempre que gastes dinero, an\u00f3talo en tu libreta junto con una nota indicando en qu\u00e9 te lo gastaste. Al final del mes podr\u00e1s ver en d\u00f3nde gastas la mayor parte de tu dinero; y d\u00f3nde puedes ahorrar a\u00fan m\u00e1s.\r\n", 
-  "source": null, 
+  "source": "0593bf4cc62e4a599a89da202b3f2d90", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 71, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-super-saver-your-answers", 
   "uuid": "ca82d565ba8a4cafaa8f45f5ea39a4bd"
