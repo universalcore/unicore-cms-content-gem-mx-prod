@@ -1,17 +1,17 @@
 {
-  "subtitle": "Descubre cu\u00e1nto sabes", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Descubre cu\u00e1nto sabes", 
   "language": "spa_MX", 
   "title": "RESPUESTAS: \u00bfConoces la verdad sobre las drogas y el alcohol?", 
   "primary_category": "f433b7b52b42438db34d42dd457e8a08", 
-  "created_at": "2016-07-25T20:56:32.267784+00:00", 
+  "created_at": "2016-07-25T20:56:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-25T20:56:32.268002+00:00", 
+  "modified_at": "2016-08-16T11:37:04.423723+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "respuestas-conoces-la-verdad-sobre-las-drogas-y-el-alcohol", 
   "uuid": "57b5d7d6f8e545faa18d7d76d3d66f3d"
